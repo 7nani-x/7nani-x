@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7nani-x
+- 👋 Hi, I’m @EddieMartinez7
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Linux, Python, SQL, and cybersecurity.
 - 💞️ I’m looking to collaborate on commands for Linux, PowerShell, and learning Python.
